@@ -1,0 +1,3 @@
+Requirements:
+cryptodome - pip install pycryptodome
+pyzipper - pip install pyzipper
